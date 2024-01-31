@@ -1,0 +1,11 @@
+charulatha:Name  Assignment-1
+
+Create a MvC project using .NET Framework MVC template Create Model like this
+
+Model course:
+CId
+CName
+Cfee
+Technaology
+Cstartdate
+CEndDate
